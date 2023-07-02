@@ -1,0 +1,14 @@
+{
+  "name": "lineanoobyswap15points",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "description": "",
+  "main": "Get15Points.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
